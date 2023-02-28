@@ -1,2 +1,2 @@
-# simple-calculator
-A Simple Calculator for simple arithmetic  for use by traders 
+# Fashion-App
+A Simple App that connects artisans(Tailors and Seamstresses) to potential customers
